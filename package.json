@@ -1,0 +1,19 @@
+{
+  "name": "coin-flipper",
+  "version": "1.0.0",
+  "description": "Dates:   17th December 2022:      - Coin Flipper repo creation",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beast-Code9999/Coin-Flipper.git"
+  },
+  "author": "Beast Code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beast-Code9999/Coin-Flipper/issues"
+  },
+  "homepage": "https://github.com/Beast-Code9999/Coin-Flipper#readme"
+}
