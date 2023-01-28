@@ -68,9 +68,10 @@ footer img:hover {
   align-items: center; }
 
 .container {
-  width: 45rem;
+  width: 65rem;
   height: 45rem;
-  background-color: #4dd0e1; }
+  background-color: #4dd0e1;
+  border-radius: 1rem; }
 
 body {
   width: 100%;
