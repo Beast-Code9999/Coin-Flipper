@@ -17,11 +17,14 @@ body {
   text-transform: uppercase; }
 
 header {
+  width: 100%;
   font-size: 2rem;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 3rem 0; }
+  padding: 3rem 0;
+  position: absolute;
+  top: 0; }
 
 /* start of footer */
 footer {
@@ -59,11 +62,15 @@ footer img:hover {
 /* end of footer */
 .main {
   width: 100%;
-  height: auto; }
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
 
 .container {
   width: 45rem;
-  height: 45rem; }
+  height: 45rem;
+  background-color: #4dd0e1; }
 
 body {
   width: 100%;
