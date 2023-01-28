@@ -26,6 +26,9 @@ header {
   position: absolute;
   top: 0; }
 
+header h1 {
+  font-weight: 900; }
+
 /* start of footer */
 footer {
   width: 100%;
@@ -36,6 +39,7 @@ footer {
   font-size: 2rem;
   color: var(--color-text);
   bottom: 0;
+  font-weight: 700;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -46,8 +50,7 @@ footer a {
   color: var(--color-text);
   display: flex;
   justify-content: center;
-  align-items: center;
-  font-weight: 700; }
+  align-items: center; }
 
 footer img {
   width: 3rem;
