@@ -74,10 +74,14 @@ footer img:hover {
   width: 65rem;
   height: 45rem;
   background-color: #4dd0e1;
-  border-radius: 1rem; }
+  border-radius: 1rem;
+  position: relative; }
 
 .share {
-  width: 5rem; }
+  width: 4rem;
+  position: absolute;
+  top: 1rem;
+  right: 2rem; }
 
 body {
   width: 100%;
