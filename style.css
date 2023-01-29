@@ -76,6 +76,9 @@ footer img:hover {
   background-color: #4dd0e1;
   border-radius: 1rem; }
 
+.share {
+  width: 5rem; }
+
 body {
   width: 100%;
   height: 100vh;
